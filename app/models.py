@@ -20,6 +20,12 @@ class DocumentChunk(BaseModel):
     content: str
     chunk_index: int
 
+    title: str
+    organization: str
+    publication_year: int
+    section: str
+    document_type: str 
+
 
 class IndexedChunk(BaseModel):
     chunk_id: str
