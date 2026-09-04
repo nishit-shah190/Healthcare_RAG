@@ -1,0 +1,13 @@
+Title: Type 2 Diabetes Management Guideline
+Organization: Example Diabetes Association
+Publication Year: 2024
+Section: 4.2
+Document Type: clinical_guideline
+
+Management of type 2 diabetes should include lifestyle modification, glucose monitoring, and individualized treatment planning.
+
+Patients should be encouraged to maintain regular physical activity and follow an appropriate nutrition plan.
+
+Metformin may be considered as an initial pharmacologic therapy for many adults when clinically appropriate.
+
+Treatment decisions should consider kidney function, cardiovascular disease, hypoglycemia risk, and individual patient needs.

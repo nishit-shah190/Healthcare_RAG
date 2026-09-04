@@ -1,0 +1,13 @@
+Title: Heart Failure Management Guideline
+Organization: Example Cardiology Institute
+Publication Year: 2023
+Section: 5.1
+Document Type: clinical_guideline
+
+Patients with heart failure require regular clinical assessment and monitoring.
+
+Management may include lifestyle recommendations, medication therapy, and evaluation of fluid status.
+
+Treatment decisions should consider symptoms, cardiac function, kidney function, blood pressure, and other comorbidities.
+
+Patients should be educated about monitoring symptoms and seeking medical evaluation when symptoms worsen.

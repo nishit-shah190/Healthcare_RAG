@@ -1,0 +1,13 @@
+Title: Adult Hypertension Clinical Guideline
+Organization: Example Health Institute
+Publication Year: 2024
+Section: 3.1
+Document Type: clinical_guideline
+
+Adults diagnosed with hypertension should receive counseling on lifestyle modification.
+
+Recommended lifestyle interventions include regular physical activity, maintaining a healthy body weight, reducing excessive sodium intake, limiting alcohol consumption, and following a balanced diet rich in fruits and vegetables.
+
+Medication therapy may be considered based on blood pressure severity, cardiovascular risk, age, and coexisting medical conditions.
+
+Patients should have their blood pressure monitored regularly to evaluate treatment effectiveness.

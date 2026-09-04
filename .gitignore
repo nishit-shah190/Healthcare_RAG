@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Local/generated data
+data/processed/*
+data/synthetic/*
+
+# Keep directories
+!data/processed/.gitkeep
+!data/synthetic/.gitkeep
+
+# Logs
+*.log
+logs/
