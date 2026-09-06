@@ -4,3 +4,5 @@ pytest
 sentence-transformers
 numpy
 openai
+chromadb
+rank-bm25

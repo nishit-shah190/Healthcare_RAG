@@ -68,6 +68,11 @@ def chunk_document_by_paragraphs(
                     document_id=document.document_id,
                     content=current_chunk,
                     chunk_index=chunk_index,
+                     title=document.title,
+                    organization = document.organization,\
+                    publication_year = document.publication_year,
+                    section=document.section,
+                    document_type=document.document_type,
                 )
 
                 chunks.append(chunk)
@@ -85,6 +90,11 @@ def chunk_document_by_paragraphs(
             document_id=document.document_id,
             content=current_chunk,
             chunk_index=chunk_index,
+            title=document.title,
+            organization = document.organization,\
+            publication_year = document.publication_year,
+            section=document.section,
+            document_type=document.document_type,
         )
 
         chunks.append(chunk)
