@@ -1,0 +1,59 @@
+[
+    {
+      "query": "What lifestyle changes help patients with hypertension?",
+      "relevant_chunk_ids": [
+        "hypertension_guideline_paragraph_chunk_0"
+      ]
+    },
+    {
+      "query": "What factors should be considered when deciding medication therapy for hypertension?",
+      "relevant_chunk_ids": [
+        "hypertension_guideline_paragraph_chunk_1"
+      ]
+    },
+    {
+      "query": "How should hypertension be managed with lifestyle changes, medication, and monitoring?",
+      "relevant_chunk_ids": [
+        "hypertension_guideline_paragraph_chunk_0",
+        "hypertension_guideline_paragraph_chunk_1"
+      ]
+    },
+    {
+      "query": "What does the guideline say about metformin?",
+      "relevant_chunk_ids": [
+        "diabetes_guideline_paragraph_chunk_0"
+      ]
+    },
+    {
+      "query": "What should be considered for diabetes patients with kidney problems?",
+      "relevant_chunk_ids": [
+        "diabetes_guideline_paragraph_chunk_1"
+      ]
+    },
+    {
+      "query": "How should type 2 diabetes be managed overall?",
+      "relevant_chunk_ids": [
+        "diabetes_guideline_paragraph_chunk_0",
+        "diabetes_guideline_paragraph_chunk_1"
+      ]
+    },
+    {
+      "query": "How should worsening heart failure symptoms be handled?",
+      "relevant_chunk_ids": [
+        "heart_failure_guideline_paragraph_chunk_1"
+      ]
+    },
+    {
+      "query": "What factors should be considered when managing heart failure?",
+      "relevant_chunk_ids": [
+        "heart_failure_guideline_paragraph_chunk_0"
+      ]
+    },
+    {
+      "query": "How should heart failure patients be managed and monitored?",
+      "relevant_chunk_ids": [
+        "heart_failure_guideline_paragraph_chunk_0",
+        "heart_failure_guideline_paragraph_chunk_1"
+      ]
+    }
+  ]

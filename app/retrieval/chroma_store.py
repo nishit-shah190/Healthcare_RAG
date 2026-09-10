@@ -41,7 +41,7 @@ class ChromaVectorStore:
                 "title": chunk.title,
                 "organization": chunk.organization,
                 "publication_year": chunk.publication_year,
-                "secton" : chunk.section,
+                "section" : chunk.section,
                 "document_type": chunk.document_type,
                 "chunk_index": chunk.chunk_index,
             })

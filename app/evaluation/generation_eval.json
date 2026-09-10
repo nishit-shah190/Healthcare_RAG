@@ -1,0 +1,50 @@
+[
+    {
+      "query": "What lifestyle changes help patients with hypertension?",
+      "expected_facts": [
+        "lifestyle modification",
+        "sodium reduction",
+        "physical activity",
+        "healthy weight"
+      ],
+      "should_abstain": false
+    },
+    {
+      "query": "What factors should be considered when deciding medication therapy for hypertension?",
+      "expected_facts": [
+        "severity",
+        "cardiovascular risk",
+        "age",
+        "comorbidities"
+      ],
+      "should_abstain": false
+    },
+    {
+      "query": "What should be considered for diabetes patients with kidney problems?",
+      "expected_facts": [
+        "kidney function",
+        "cardiovascular disease",
+        "hypoglycemia risk",
+        "individual patient needs"
+      ],
+      "should_abstain": false
+    },
+    {
+      "query": "How should worsening heart failure symptoms be handled?",
+      "expected_facts": [
+        "monitor worsening symptoms",
+        "seek medical evaluation"
+      ],
+      "should_abstain": false
+    },
+    {
+      "query": "What treatment is recommended for migraine prevention?",
+      "expected_facts": [],
+      "should_abstain": true
+    },
+    {
+      "query": "What antibiotic should be used for pneumonia?",
+      "expected_facts": [],
+      "should_abstain": true
+    }
+  ]
